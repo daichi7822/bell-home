@@ -109,4 +109,26 @@ a{
   transform: scale(1, 1);
 }
   
+@media screen and (max-width:720px){
 
+  #sns{
+    box-sizing: content-box;
+    width: 80%;
+    margin:50px 10% 0 10%;
+  }
+
+  #sns a{
+    margin: 0 15px;
+  }
+  
+  #url{
+    display: block;
+    text-align: center;
+    margin-top: 70px;
+  }
+
+  #url a{
+    margin-bottom: 25px;
+  }
+
+}
