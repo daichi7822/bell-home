@@ -130,6 +130,7 @@ a{
 
   #sns a{
     margin: 0 5px;
+    font-size:30px;
   }
   
   #url{
@@ -140,6 +141,7 @@ a{
 
   #url a{
     margin-bottom: 40px;
+    font-size:30px;
   }
 
 }
