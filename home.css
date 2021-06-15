@@ -124,13 +124,20 @@ a{
     margin-bottom: 40px;
     font-size:30px;
   }
+
+  #sns{
+    box-sizing: inherit;
+    width: 30%;
+    margin-left: 35%;
+    margin-right: 35%;
+  }
 }
 
 @media screen and (max-width:720px){
 
   #logo img{
-    width: 65%;
-    margin: 45px 17.5% 0 17.5%;
+    width: 35%;
+    margin: 100px 32.5% 60px 32.5%;
   }
 
   #sns{
@@ -141,7 +148,7 @@ a{
 
   #sns a{
     margin: 0 5px;
-    font-size:30px;
+    font-size:18px;
   }
   
   #url{
