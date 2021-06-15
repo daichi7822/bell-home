@@ -100,7 +100,7 @@ a{
 }
 .line a::after {
   position: absolute;
-  bottom: -10px;
+  bottom: -3px;
   left: 0;
   content: '';
   width: 100%;
